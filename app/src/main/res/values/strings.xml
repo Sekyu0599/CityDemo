@@ -1,0 +1,12 @@
+<resources>
+    <!--全局字符串声明-->
+    <string name="app_name">CityDemo</string>
+    <!--MainActivity字符串声明-->
+    <string name="main_button_location">查找我的周围</string>
+    <!--LocationActivity字符串声明-->
+    <string name="location_layout_labelname">CityDemo--周边信息</string>
+    <string name="location_textview_shopname">商铺名称</string>
+    <string name="location_textview_shopaverage">人均消费/起价</string>
+    <string name="location_textview_shopkind">商铺种类</string>
+    <string name="location_textview_shopaddress">商铺地址</string>
+</resources>
